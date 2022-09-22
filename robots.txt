@@ -1,0 +1,8 @@
+User-agent: *
+# Private pages
+Disallow: /avisolegal.php
+Disallow: /protecciondatos.php
+Disallow: /cookies.php
+Disallow: */assets/
+Disallow: */server/
+Disallow: */sweetalert/
